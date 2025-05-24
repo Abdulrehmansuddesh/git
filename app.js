@@ -1,1 +1,3 @@
-var arry = []
+var arry = [
+    {name:'hassan'}
+]
